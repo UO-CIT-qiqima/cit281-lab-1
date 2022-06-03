@@ -1,5 +1,5 @@
 # cit281-lab-1
-cit 281 lab-1
+cit 281 lab-1 : https://github.com/UO-CIT-qiqima/cit281-lab-1
 
 Lab 1 goals and outcomes:
 
@@ -10,3 +10,4 @@ Lab 1 goals and outcomes:
 5. Create the first Node.js server-side JavaScript file
 
 <img src="chrome.png" width= "200px">
+<img src="visual.png" width= "200px">
