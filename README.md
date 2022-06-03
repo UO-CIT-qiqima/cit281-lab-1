@@ -1,5 +1,5 @@
 # cit281-lab-1
-cit 281 lab-1 : https://github.com/UO-CIT-qiqima/cit281-lab-1
+[cit 281 lab-1](https://github.com/UO-CIT-qiqima/cit281-lab-1)
 
 Lab 1 goals and outcomes:
 
